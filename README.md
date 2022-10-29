@@ -1,10 +1,8 @@
 # TransAntivirus
 
-
-
 Deep molecular generative model for antiviral drug design with variant Transformer
 
-
+![Model Architecture of TransAntivirus](https://github.com/AspirinCode/TransAntivirus/blob/main/image/TransAntivirus.png)
 
 ## Acknowledgements
 We thank the authors of xxxxxxxx for releasing their code. 
