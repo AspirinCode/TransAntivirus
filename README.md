@@ -26,13 +26,13 @@ https://github.com/rdkit/rdkit
 
 
 
-## Model
+## Model & data
 
 
 
 For the generation stage the model files are available. It is possible to use the ones that are generated during the training step or you can download the ones that we have already generated model files from Google Drive. 
 
-
+https://drive.google.com/drive/u/0/folders/1T2CuAo52Auryepr9UZOSB1g6U_i332UY
 
 
 ## Generation
