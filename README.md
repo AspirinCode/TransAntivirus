@@ -1,4 +1,5 @@
 [![License: GNU](https://img.shields.io/badge/License-GNU-yellow)](https://github.com/AspirinCode/TransAntivirus)
+[![JCIM](https://img.shields.io/badge/10.1021%2Facs.jcim.3c00536-green)](https://doi.org/10.1021/acs.jcim.3c00536)
 
 # TransAntivirus
 
