@@ -1,3 +1,5 @@
+[![License: GNU](https://img.shields.io/badge/License-GNU-yellow)](https://github.com/AspirinCode/TransAntivirus)
+
 # TransAntivirus
 
 **Transformer-based molecular generative model for antiviral drug design**
