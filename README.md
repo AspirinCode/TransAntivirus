@@ -77,7 +77,9 @@ Code is released under GNU AFFERO GENERAL PUBLIC LICENSE.
 
 ## Cite:
 
-*  Jiashun Mao, Jianmin Wang, Amir Zeb, Kwang-Hwi Cho, Haiyan Jin, Jongwan Kim, Onju Lee, Yunyun Wang, and Kyoung Tai No. "Transformer-Based Molecular Generative Model for Antiviral Drug Design" Journal of Chemical Information and Modeling, 2023;, [DOI: 10.1021/acs.jcim.3c00536](https://doi.org/10.1021/acs.jcim.3c00536)  
+*  Jiashun Mao, Jianmin Wang, Amir Zeb, Kwang-Hwi Cho, Haiyan Jin, Jongwan Kim, Onju Lee, Yunyun Wang, and Kyoung Tai No. "Transformer-Based Molecular Generative Model for Antiviral Drug Design" Journal of Chemical Information and Modeling, 2023;, [DOI: 10.1021/acs.jcim.3c00536](https://doi.org/10.1021/acs.jcim.3c00536)
+
+*  J. Wang, P. Zhou, Z. Wang, W. Long, Y. Chen, K.T. No, D. Ouyang, J. Mao, X. Zeng, Diffusion-based generative drug-like molecular editing with chemical natural language, Journal of Pharmaceutical Analysis, https://doi.org/10.1016/j.jpha.2024.101137.
 
 *  Rothchild, Daniel, Alex Tamkin, Julie Yu, Ujval Misra, and Joseph Gonzalez. "C5t5: Controllable generation of organic molecules with transformers." arXiv preprint arXiv:2108.10307 (2021).
 
